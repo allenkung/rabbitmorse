@@ -49,4 +49,6 @@ A special morse tool for rabbits.
 
 Replace `.` with `乎` & `-` with `呼`，so the Morse become an rabbit version. LOL
 
-*It's a Children's day git for my little girl.*
+---
+
+*It's a Children's day git for my little girl. Sometimes she wants to be a cute rabbit. And then we talk in words '呼呼 呼呼呼' just like my pat rabbit Journey did.*
